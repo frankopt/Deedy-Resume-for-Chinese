@@ -39,6 +39,7 @@ Deedy-Resume-For-Chinese
 ## Dependencies
 
 1. Compiles only with **XeTeX** and required **BibTex** for compiling publications and the .bib filetype.
+2. Mac user need to install TeXShop to type the doc.
 
 ## Known Issues:
 
@@ -53,3 +54,5 @@ Deedy-Resume-For-Chinese
 ## License
 
 Apache 2.0 协议开源，字体部分详见其对应开源协议
+
+
